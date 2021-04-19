@@ -691,7 +691,6 @@ header.fixed-header ul li a{
 	.modal-dialog-centered {
 		display: flex;
 		align-items: start;
-		min-height: calc(100% - 1rem);
 		margin: 0 !important;
 		margin-left: 20rem !important;
 	}
